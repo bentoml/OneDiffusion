@@ -1,3 +1,7 @@
+## ⚠️ OneDiffusion project has been deprecated
+
+To learn more about how to deploy diffusion models, see [the BentoML documentation](https://docs.bentoml.com/en/latest/use-cases/diffusion-models/index.html).
+
 <div align="center">
     <h1 align="center">🖼️ OneDiffusion</h1>
     <a href="https://pypi.org/project/onediffusion">
